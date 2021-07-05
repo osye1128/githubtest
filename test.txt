@@ -1,3 +1,4 @@
 modify
 test.txt add
 add
+local motify
