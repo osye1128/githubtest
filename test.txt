@@ -1,0 +1,8 @@
+modify
+test.txt add
+add
+<<<<<<< HEAD
+local motify
+=======
+다른 사람이 수정
+>>>>>>> origin/master
